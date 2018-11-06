@@ -1,0 +1,24 @@
+{
+  "name": "koademo",
+  "version": "1.0.0",
+  "description": "learn koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusofte-chap/KoaDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusofte-chap/KoaDemo/issues"
+  },
+  "homepage": "https://github.com/kusofte-chap/KoaDemo#readme",
+  "dependencies": {
+    "koa": "^2.6.1",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0"
+  }
+}
