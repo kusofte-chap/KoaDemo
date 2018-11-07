@@ -4,7 +4,8 @@
   "description": "learn koa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mon": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
     "koa": "^2.6.1",
     "koa-body": "^4.0.4",
     "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
   }
 }
